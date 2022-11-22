@@ -1,3 +1,7 @@
+The project is undergone by using MySql Workbench, Terminal and Ubuntu
+
+We also created our own database from scratch
+
 We aim to demonstrate the use of create, read, update and delete MySQL operations through this project. Furthermore details about our project are as follows:
 
 Create a database for a banking management system. Tasks included are:
